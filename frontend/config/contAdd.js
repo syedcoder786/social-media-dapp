@@ -1,0 +1,1 @@
+export const contAdd = "0x84cD8C052E486098E961737DA68d5FdaBE590c72"
